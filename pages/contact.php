@@ -7,10 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-<?php 
-echo('<h1 style="color: red">Trang chu</h1>')
-?>
-<a href="pages/about.php">Gioi thieu</a><br/>
-<a href="pages/contact.php">Lien he</a><br/>
+    <a href="../index.php">Quay lai trang chu</a>
 </body>
 </html>
